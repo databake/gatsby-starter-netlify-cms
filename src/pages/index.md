@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: 'Great guys, great service, join us now'
+title: 'Great guys, great service, use us now'
 image: /img/8a2926ab-d863-48db-86a1-1796d29bcc9c.png
 heading: We install IoT boxes into vehicles.
 subheading: >-
@@ -38,13 +38,11 @@ intro:
         lighting, fuel efficiency monitors and security systems. Whether your
         fleet consists of cars, vans or HGV, regardless of fleet size, we can
         take care of it.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+    - image: /img/4e87afa9-7565-423d-94c5-f425c85f5281.png
+      text: >-
+        RS Connected Car: accurate tracking of fleet mileage, predictive
+        servicing or vehicle tracking and recovery. Platform in a box: one price
+        for installation, data and platform.
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
@@ -55,8 +53,8 @@ intro:
   heading: What we offer
   description: >-
     We are the largest and most established insurance IoT installation solution
-    in Europe, offering an unparalleled scale delivered direct to the vehicle,
-    by the most technically qualified engineers in the market, no job is too
+    in Europe, offering an unparalleled scale, delivered direct to the vehicle,
+    by the most technically qualified engineers in the market. No job is too
     large, no job is too small.
 main:
   heading: Great coffee with no compromises
