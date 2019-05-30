@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: 'Great guys, great service, use us now'
-image: /img/8a2926ab-d863-48db-86a1-1796d29bcc9c.png
+image: /img/0bf59b6b-bda9-4bc7-8b6a-42c5e1d724cb.png
 heading: We fit IoT devices to vehicles.
 subheading: >-
   You can trust us, we’ve been around for a while and we’re here for the long
