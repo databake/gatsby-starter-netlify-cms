@@ -1,16 +1,17 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: 'Great guys, great service, join us now'
+image: /img/e5d161c7-7c8c-44b4-886a-5938f1a3c548.png
+heading: We install boxes
+subheading: We only use sustainable things.
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Why RS Connect
+  description: >-
+    Partnering with everyone from insurers, fleet managers, emergency services
+    to hire and leasing companies, RS Connect is here to protect your drivers
+    and vehicles. Applying our in-house engineering and vehicle installation
+    expertise to drive down risk, our integrated telematics technologies keep
+    people safer at the wheel.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -68,3 +69,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
