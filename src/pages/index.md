@@ -12,8 +12,8 @@ mainpitch:
     Partnering with everyone from insurers, fleet managers, emergency services
     to hire and leasing companies, RS Connect is here to protect your drivers
     and vehicles. Applying our in-house engineering and vehicle installation
-    expertise to drive down risk, our integrated telematics technologies keep
-    people safer at the wheel.
+    expertise to drive down risk, our integrated IoT technologies keep people
+    safer at the wheel.
 description: >-
   Onsite and infield vehicle installation - our engineer base has complete UK
   coverage and is of a scale that we can co manage onsite and infield
@@ -54,9 +54,10 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >-
-    We are the largest and most established insurance telematics installation
-    solution in Europe, offering an unparalleled service delivered direct to the
-    driver, by the most technically qualified engineers in the market.
+    We are the largest and most established insurance IoT installation solution
+    in Europe, offering an unparalleled scale delivered direct to the vehicle,
+    by the most technically qualified engineers in the market, no job is too
+    large, no job is too small.
 main:
   heading: Great coffee with no compromises
   description: >
