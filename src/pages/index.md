@@ -2,8 +2,10 @@
 templateKey: index-page
 title: 'Great guys, great service, join us now'
 image: /img/8a2926ab-d863-48db-86a1-1796d29bcc9c.png
-heading: We install boxes into things.
-subheading: We only use sustainable things.
+heading: We install IoT boxes into vehicles.
+subheading: >-
+  You can trust us, we’ve been around for a while and we’re here for the long
+  run.
 mainpitch:
   title: Why RS Connect
   description: >-
@@ -20,7 +22,7 @@ intro:
   blurbs:
     - image: /img/656efe7c-26f3-4782-9191-3089ac20af1b.png
       text: >-
-        Insurance telematics 
+        Insurance telematics: 
 
 
         Whether installation is undertaken by our own employed engineers (and we
@@ -29,12 +31,32 @@ intro:
         same high and consistent standards of technology, work, approach and
         courtesy will be provided. We work in collaboration with our insurer
         customers to tailor bespoke services to suit their individual needs.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+    - image: /img/8a2926ab-d863-48db-86a1-1796d29bcc9c.png
+      text: >-
+        We provide all manor of fleet installation services including vehicle
+        tracking systems, aftermarket voice, data and safety equipment,
+        lighting, fuel efficiency monitors and security systems. Whether your
+        fleet consists of cars, vans or HGV, regardless of fleet size, we can
+        take care of it.
+
+
+        Our telematics products cover a wide range of bespoke applications which
+        we can build and fit to your needs.
+
+
+        Our safety products include CCTV cameras (safety and witness), dash
+        cams, side scanners, reverse aids and sleep monitors.
+
+
+        Our lighting solutions including beacons, strobes and LED.
+
+
+        Fuel efficiency monitors from ECU plug ins through to real time driver
+        consumption updates.
+
+
+        From locks and deadlocks to a range of immobilisers, alarms and cat
+        alarms.
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
@@ -53,8 +75,7 @@ intro:
   description: >-
     We are the largest and most established insurance telematics installation
     solution in Europe, offering an unparalleled service delivered direct to the
-    driver, either as an own brand or white labelled offering, by the most
-    technically qualified engineers in the market.
+    driver, by the most technically qualified engineers in the market.
 main:
   heading: Great coffee with no compromises
   description: >
