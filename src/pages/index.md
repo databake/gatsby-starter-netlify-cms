@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: 'Great guys, great service, join us now'
-image: /img/e5d161c7-7c8c-44b4-886a-5938f1a3c548.png
+image: /img/8a2926ab-d863-48db-86a1-1796d29bcc9c.png
 heading: We install boxes into things.
 subheading: We only use sustainable things.
 mainpitch:
@@ -13,13 +13,12 @@ mainpitch:
     expertise to drive down risk, our integrated telematics technologies keep
     people safer at the wheel.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Onsite and infield vehicle installation - our engineer base has complete UK
+  coverage and is of a scale that we can co manage onsite and infield
+  installations.
 intro:
   blurbs:
-    - image: /img/8a2926ab-d863-48db-86a1-1796d29bcc9c.png
+    - image: /img/656efe7c-26f3-4782-9191-3089ac20af1b.png
       text: >-
         Insurance telematics 
 
