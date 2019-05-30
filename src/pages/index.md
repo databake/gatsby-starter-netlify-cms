@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: 'Great guys, great service, use us now'
+title: 'Great guys, great service, use us now.'
 image: /img/0bf59b6b-bda9-4bc7-8b6a-42c5e1d724cb.png
 heading: We fit IoT devices to vehicles.
 subheading: >-
