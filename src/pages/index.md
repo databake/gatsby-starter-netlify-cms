@@ -38,25 +38,6 @@ intro:
         lighting, fuel efficiency monitors and security systems. Whether your
         fleet consists of cars, vans or HGV, regardless of fleet size, we can
         take care of it.
-
-
-        Our telematics products cover a wide range of bespoke applications which
-        we can build and fit to your needs.
-
-
-        Our safety products include CCTV cameras (safety and witness), dash
-        cams, side scanners, reverse aids and sleep monitors.
-
-
-        Our lighting solutions including beacons, strobes and LED.
-
-
-        Fuel efficiency monitors from ECU plug ins through to real time driver
-        consumption updates.
-
-
-        From locks and deadlocks to a range of immobilisers, alarms and cat
-        alarms.
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
