@@ -20,9 +20,9 @@ description: >-
   installations.
 intro:
   blurbs:
-    - image: /img/656efe7c-26f3-4782-9191-3089ac20af1b.png
+    - image: /img/872c5f46-d959-4461-8862-556edd4ef9a3.png
       text: >-
-        Insurance telematics: 
+        Insurance IoT: 
 
 
         Whether installation is undertaken by our own employed engineers (and we
