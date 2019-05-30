@@ -2,7 +2,7 @@
 templateKey: index-page
 title: 'Great guys, great service, join us now'
 image: /img/e5d161c7-7c8c-44b4-886a-5938f1a3c548.png
-heading: We install boxes
+heading: We install boxes into things.
 subheading: We only use sustainable things.
 mainpitch:
   title: Why RS Connect
@@ -19,13 +19,17 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+    - image: /img/8a2926ab-d863-48db-86a1-1796d29bcc9c.png
+      text: >-
+        Insurance telematics 
+
+
+        Whether installation is undertaken by our own employed engineers (and we
+        have the largest engineering force in our industry) or delegated to our
+        highly trained sub contractors, our customers can be assured that the
+        same high and consistent standards of technology, work, approach and
+        courtesy will be provided. We work in collaboration with our insurer
+        customers to tailor bespoke services to suit their individual needs.
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -47,11 +51,11 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: >-
+    We are the largest and most established insurance telematics installation
+    solution in Europe, offering an unparalleled service delivered direct to the
+    driver, either as an own brand or white labelled offering, by the most
+    technically qualified engineers in the market.
 main:
   heading: Great coffee with no compromises
   description: >
