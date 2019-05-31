@@ -20,7 +20,7 @@ description: >-
   installations.
 intro:
   blurbs:
-    - image: /img/872c5f46-d959-4461-8862-556edd4ef9a3.png
+    - image: /img/7d86a7d1-e3d7-4b68-8bdb-4441a352100d.jpeg
       text: >-
         Insurance IoT: 
 
