@@ -38,7 +38,7 @@ intro:
         lighting, fuel efficiency monitors and security systems. Whether your
         fleet consists of cars, vans or HGV, regardless of fleet size, we can
         take care of it.
-    - image: /img/4e87afa9-7565-423d-94c5-f425c85f5281.png
+    - image: /img/249e34fc-4e67-4c3b-935a-820cd291c047.jpeg
       text: >-
         RS Connected Car: accurate tracking of fleet mileage, predictive
         servicing or vehicle tracking and recovery. Platform in a box: one price
