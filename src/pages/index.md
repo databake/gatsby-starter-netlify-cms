@@ -31,7 +31,7 @@ intro:
         same high and consistent standards of technology, work, approach and
         courtesy will be provided. We work in collaboration with our insurer
         customers to tailor bespoke services to suit their individual needs.
-    - image: /img/8a2926ab-d863-48db-86a1-1796d29bcc9c.png
+    - image: /img/ba78a3c9-8413-4587-ba34-e21028a641f2.jpeg
       text: >-
         We provide all manor of fleet installation services including vehicle
         tracking systems, aftermarket voice, data and safety equipment,
