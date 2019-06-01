@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: 'Great guys, great service, use us now.'
+title: RS Connect is how
 image: /img/4d9ac0f9-e99b-4ebe-9275-02b47e85172a.png
 heading: We fit IoT devices to vehicles.
 subheading: >-
-  You can trust us, we’ve been around for a while and we’re here for the long
-  run.
+  Weather you’re looking for insurance telematics or fleet management, RS
+  Connect has a service to help you grow.
 mainpitch:
   title: Why RS Connect
   description: >-
