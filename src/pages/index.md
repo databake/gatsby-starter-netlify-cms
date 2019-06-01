@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: RS Connect is how
-image: /img/4d9ac0f9-e99b-4ebe-9275-02b47e85172a.png
+image: /img/6ead6bd9-a84a-4d53-8109-e644d3eb67b7.jpeg
 heading: We fit IoT devices to vehicles.
 subheading: >-
   Weather you’re looking for insurance telematics or fleet management, RS
